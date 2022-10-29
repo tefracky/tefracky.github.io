@@ -9533,8 +9533,8 @@ params={
             "palaceBuff": 280093,
             "region": 5000000,
             "tpmin": 4
-        {
         },
+        {
             "canClip": false,
             "dlcs": [
                 "dlc9"
@@ -9807,7 +9807,7 @@ params={
                 "spanish": "Planta química: chicle",
                 "taiwanese": "化學廠：口香糖"
             },
-            "maintenances"135224: [
+            "maintenances": [
                 {
                     "Amount": 800,
                     "InactiveAmount": 400,
